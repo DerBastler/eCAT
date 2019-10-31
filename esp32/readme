@@ -1,1 +1,8 @@
+ # ESP 32
+ 
+ For this Project you need to download and install this librarys :
+ 
+ - ESPAsyncWebServer.h https://github.com/me-no-dev/ESPAsyncWebServer)
+ - Adafruit_PWMServoDriver.h (https://github.com/adafruit/Adafruit-PWM-Servo-Driver-Library)
+ - SPIFFS.h  (https://github.com/me-no-dev/arduino-esp32fs-plugin)
  
