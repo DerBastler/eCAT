@@ -1,5 +1,5 @@
 # eCAT
-A Roboter Cat inspired from openCat https://github.com/PetoiCamp/OpenCat
+A Roboter cat inspired from openCat https://github.com/PetoiCamp/OpenCat
 
 ![eCAT](https://github.com/DerBastler/eCAT/blob/master/eCAT.jpg)
 
